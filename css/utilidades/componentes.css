@@ -75,6 +75,10 @@ text-transform: uppercase;
   background-color: var(--cor-11);
 }
 
+.titulo{
+  background: url("../../img/dec/top-right.svg") no-repeat top right 20px;
+}
+
 .titulo p{
   margin-top: 20px;
 }
